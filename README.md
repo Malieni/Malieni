@@ -25,16 +25,16 @@ Atualmente, estou trabalhando em vários projetos interessantes, incluindo:
 
 
 ## Ferramentas!
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/62cd89a8-f0c4-4e34-9669-20a5f333bdcc) 
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/c22d20d3-dbfa-4475-931f-2e058520e124)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/e30c0e35-0fa1-4425-be26-0268dabe9040)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/84ed4865-e647-468f-9f62-4fb07e761350)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/0befd7fc-4a55-4dc7-8691-4a9c518184cd)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/1f520f9d-8824-4790-9fdd-19bdd7e35823)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/2d9fbc4d-7589-4f72-af53-d95dff7024f7)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/85c8cddc-3d50-431d-8359-01fba160d24f)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/585a5fa0-7225-4d9a-9e98-6cc9179481cf)
-  ![image](https://github.com/Malieni/Malieni/assets/137828338/e0291422-2a82-4003-a617-19f9c475d8b2)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/62cd89a8-f0c4-4e34-9669-20a5f333bdcc) 
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/c22d20d3-dbfa-4475-931f-2e058520e124)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/e30c0e35-0fa1-4425-be26-0268dabe9040)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/84ed4865-e647-468f-9f62-4fb07e761350)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/0befd7fc-4a55-4dc7-8691-4a9c518184cd)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/1f520f9d-8824-4790-9fdd-19bdd7e35823)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/2d9fbc4d-7589-4f72-af53-d95dff7024f7)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/85c8cddc-3d50-431d-8359-01fba160d24f)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/585a5fa0-7225-4d9a-9e98-6cc9179481cf)
+    ![image](https://github.com/Malieni/Malieni/assets/137828338/e0291422-2a82-4003-a617-19f9c475d8b2)
     ![image](https://github.com/Malieni/Malieni/assets/137828338/88ece4fd-f071-4907-9cb0-fcbd7f1c1d83)
 ### Vamos Colaborar!
 
