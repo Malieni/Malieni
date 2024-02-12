@@ -24,7 +24,7 @@ Atualmente, estou trabalhando em vários projetos interessantes, incluindo:
 
 
 
-## Ferramentas!
+## Ferramentas!⚙
  ![image](https://github.com/Malieni/Malieni/assets/137828338/62cd89a8-f0c4-4e34-9669-20a5f333bdcc) 
       ![image](https://github.com/Malieni/Malieni/assets/137828338/c22d20d3-dbfa-4475-931f-2e058520e124)
          ![image](https://github.com/Malieni/Malieni/assets/137828338/e30c0e35-0fa1-4425-be26-0268dabe9040)
