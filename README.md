@@ -3,10 +3,15 @@
 🎂 16 anos | 📅 Aniversário: 30/03 | 🏫 Campus São Paulo | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
 ### Sobre Mim
+Olá, meu nome é Guilherme Souza Malieni, e sou um entusiasta por tecnologia e programação. Atualmente estou cursando o curso técnico em Informática no Campus São Paulo do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Desde os primeiros passos, fui atraído pelo vasto universo da computação, e tenho dedicado minha jornada ao aprimoramento contínuo de minhas habilidades e conhecimentos na área.
 
-Olá, sou Guilherme Souza Malieni, um jovem apaixonado por tecnologia e programação. Estou atualmente cursando o curso técnico em Informática no Campus São Paulo do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Desde cedo, fui cativado pelo mundo da computação e tenho trabalhado duro para aprimorar minhas habilidades e conhecimentos na área.
+Minha jornada acadêmica e prática tem me proporcionado valiosas oportunidades de aprendizado e crescimento. Estou constantemente buscando desafios que me permitam expandir meu entendimento e aplicar soluções inovadoras em projetos práticos. Tenho um forte compromisso com a excelência técnica e uma abordagem diligente para enfrentar os desafios que surgem no desenvolvimento de software.
 
-### Minhas Paixões
+Além de meus estudos formais, busco manter-me atualizado com as tendências e avanços mais recentes no campo da tecnologia, participando ativamente de comunidades online, eventos de tecnologia e buscando oportunidades de aprendizado prático.
+
+Estou ansioso para continuar minha jornada na área da tecnologia e contribuir de forma significativa para projetos desafiadores e inovadores.
+
+### Preferências
 
 - 💻 Desenvolvimento de Software: Sou um entusiasta da programação e estou sempre ansioso para explorar novas linguagens e tecnologias. Minhas principais áreas de interesse incluem desenvolvimento web, automação, e aplicativos móveis.
 
