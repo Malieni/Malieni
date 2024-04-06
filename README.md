@@ -1,6 +1,6 @@
 ## Guilherme Souza Malieni
 
-🎂 16 anos | 📅 Aniversário: 30/03 | 🏫 Campus São Paulo | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+🎂 17 anos | 📅 Aniversário: 30/03 | 🏫 Campus São Paulo | Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
 ### Sobre Mim
 Olá, meu nome é Guilherme Souza Malieni, e sou um entusiasta por tecnologia e programação. Atualmente estou cursando o curso técnico em Informática no Campus São Paulo do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Desde os primeiros passos, fui atraído pelo vasto universo da computação, e tenho dedicado minha jornada ao aprimoramento contínuo de minhas habilidades e conhecimentos na área.
