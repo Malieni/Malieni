@@ -41,19 +41,6 @@ EU<DESEMPREGADO<ESTAGIO<JUNIOR<PLENO<SENIOR
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>😮 Se minha COBRA tivesse vida morreria de fome 😮</h2>
-  <br>
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malieni/Malieni/output/github-contribution-grid-snake-dark.svg">
- 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Malieni/Malieni/output/github-contribution-grid-snake.svg">
-</picture>
- 
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Status ⚡</h2>
