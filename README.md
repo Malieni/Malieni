@@ -1,43 +1,76 @@
-# Guilherme Souza Malieni
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-🎂 17 anos | 📅 30/03 | 🏫 IFSP - Campus São Paulo
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OI+👋;" />
+</h1>
 
-## Sobre Mim
-Sou Guilherme Malieni, estudante de Técnico em Informática no IFSP.Busco aprimorar continuamente minhas habilidades e conhecimentos. Participo ativamente de comunidades online e eventos de tecnologia.
+<h1 align="center">📖Estudante-INFO📖</h1>
+  
+  <h3 align="center">ᶜᵃᵐᵖᵘˢ ˢᵃᵒ ᴾᵃᵘˡᵒ | ᴵⁿˢᵗᶦᵗᵘᵗᵒ ᶠᵉᵈᵉʳᵃˡ ᵈᵉ ᴱᵈᵘᶜᵃᶜᵃᵒ, ᶜᶦᵉⁿᶜᶦᵃ ᵉ ᵀᵉᶜⁿᵒˡᵒᵍᶦᵃ ᵈᵉ ˢᵃ̃ᵒ ᴾᵃᵘˡᵒ</h3>
 
-## Preferências
+<br/>
 
-- 💻 Desenvolvimento de Software: Interesse em desenvolvimento web, automação e aplicativos móveis.
-- 🌐 Contribuição para a Comunidade: Participo de projetos de código aberto e colaboro com outros desenvolvedores.
-- 📚 Educação Continuada: Sempre em busca de novos recursos de aprendizado.
+<div align="center">
+ 
+ 🔭 Ativo na **comunidade**?
+ 
+ 🌱 Atualmente estudando **MachineLearning, Python, Grafos, Matrizes , Front-end**
 
-## Projetos Atuais
+EU<DESEMPREGADO<ESTAGIO<JUNIOR<PLENO<SENIOR
 
-- 🌐 Site para vendas e organização de estoque.
-- 🌐 Site para conhecimento sobre rendas e investimentos.
-- ☕ Aplicações de aprendizado em JAVA.
-
-## Ferramentas
-
-![Ferramentas que uso](https://github.com/Malieni/Malieni/assets/137828338/62cd89a8-f0c4-4e34-9669-20a5f333bdcc)
-![Ferramenta 2](https://github.com/Malieni/Malieni/assets/137828338/c22d20d3-dbfa-4475-931f-2e058520e124)
-![Ferramenta 3](https://github.com/Malieni/Malieni/assets/137828338/e30c0e35-0fa1-4425-be26-0268dabe9040)
-
-## Vamos Colaborar!
-
-Aberto a novas oportunidades e projetos. Entre em contato para colaborar!
-
-## Contatos
-
-<div>
-<a href="https://instagram.com/gui.souza_s2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:contato@Guilherme Souza Malieni"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ </div>
+ 
+<div align="center"> 
+  <div>
+<a href="https://instagram.com/gui.malieni" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "gui.souza.malieni@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
+  </a>
 </div>
 
-Siga-me no GitHub para acompanhar meus projetos!
-
-<div>
-<a href="https://github.com/Malieni">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malieni&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malieni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <hr/>
+ 
+<h2 align="center">⚒️ Linguagem-Ferramentas ⚒️</h2>
+<br/>
+<div align="center">
+  
+  <img src="https://store-images.s-microsoft.com/image/apps.23372.14107117329069310.4b704e0c-2467-45b1-84e7-6f30685c3d9c.3aef0211-caa2-419e-9994-c8bd1e0e484f?h=464" height=75> <img src="https://seeklogo.com/images/J/java-logo-41D4155FC3-seeklogo.com.png" height=75>
+--> como faz hello world em Java mesmo?  <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" height=75> <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" height=75> <img src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" height=75>  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" height=75>            
+    <br>
 </div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>😮 Se minha COBRA tivesse vida morreria de fome 😮</h2>
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Malieni/Malieni/output/github-contribution-grid-snake-dark.svg">
+ 
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Malieni/Malieni/output/github-contribution-grid-snake.svg">
+</picture>
+ 
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Status ⚡</h2>
+<br>
+<div align=center>
+   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Malieni&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Malieni&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Malieni&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+
+
+<!--
+CREDITOS:
+_generated with [Platane/snk](https://github.com/Platane/snk)_
