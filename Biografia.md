@@ -17,7 +17,7 @@
  🌱 Atualmente estudando **MachineLearning, Python, Grafos, Matrizes , Front-end**
 
 EU<DESEMPREGADO<ESTAGIO<JUNIOR<PLENO<SENIOR
-        ^
+        
 
  </div>
  
